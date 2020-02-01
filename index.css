@@ -1,0 +1,12 @@
+.newoption{
+    border: 1px solid #ccc;
+    padding: 7px 12px;
+    margin-bottom: 5px;
+}
+
+.newoption:hover{
+    background: #ccc;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
